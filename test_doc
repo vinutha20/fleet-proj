@@ -3,4 +3,8 @@
 def add()
   puts 'Addition'
  end
+
+def mod()
+  puts 'mod'
+end
  
