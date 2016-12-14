@@ -13,4 +13,6 @@ def mod()
   puts 'mod'
 end
  
-
+def tst()
+  puts 'testing'
+end
