@@ -3,4 +3,7 @@
 def add()
   puts 'Addition'
  end
- 
+
+This is just a document
+
+Test file
