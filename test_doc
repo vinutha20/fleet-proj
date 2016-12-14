@@ -1,0 +1,6 @@
+#This function will add
+
+def add()
+  puts 'Addition'
+ end
+ 
